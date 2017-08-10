@@ -1,0 +1,27 @@
+/*Pagina Principal*/
+
+h1{
+  font-family:'Caesar Dressing', cursive;
+  color: blue;
+  font-size:5.5em;
+}
+
+#fotoypie{
+	background-color: white;
+}
+
+.imgpie{
+	padding-left: 5em;
+	padding-right: 5em;
+	font-size: 1.3em;
+	font-family: Monospace,serif;
+}
+
+.container-fluid{
+   padding: 10em 10em 4em 10em;
+}
+
+.participacion{
+	padding-left: 5em;
+	padding-right: 5em;
+}
