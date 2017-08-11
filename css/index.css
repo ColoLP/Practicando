@@ -25,3 +25,25 @@ h1{
 	padding-left: 5em;
 	padding-right: 5em;
 }
+
+.otraFont{
+	font-family:"Comic Sans MS", Geneva, sans-serif;
+	font-size:0.80em;
+}
+
+#pieDePagina{
+	padding-top:0.5em;
+}
+
+#frase{
+	font-family:"Times New Roman",Serif;
+	font-size:0.85em;
+	color:gray;
+}
+
+#footer{
+	padding-top:2em;
+	border-top-style: solid;
+	border-color: lightblue;
+	border-radius: 2em;
+}
